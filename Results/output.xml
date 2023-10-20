@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <robot generator="Robot 6.1.1 (Python 3.8.5 on win32)" generated="20231017 01:41:57.832" rpa="false" schemaversion="4">
-<suite id="s1" name="Crm" source="C:\Users\tonyi\Test Files For VSCode\Robot Framework Learning\First Robot Project\Tests\Crm.robot">
+<suite id="s1" name="Crm" source="">
 <test id="s1-t1" name="Should be able to add new customer" line="10">
 <kw name="Log" library="BuiltIn">
 <arg>Starting the test case!</arg>
